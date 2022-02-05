@@ -12,16 +12,93 @@ Two students per week are to initiate discussion of the assigned readings. Prese
 Summary of Assignments and Due Dates
 ------------------------------------
 
-| ASSIGNMENTS | DUE DATEs |
-| --- | --- |
-| Syllabus Critique | Due 5 days after Session 1 |
-| Formal Analysis | Due Session 4 |
-| Reader's Report | Due Session 5 |
-| Proposed Outline / Bibliography | Due Session 7 |
-| Exhibition Review | Due Session 8 |
-| Media Analysis | Due Session 11 |
-| Abstract of Research Paper | Due Session 12 |
-| Final Research Paper | Due 2 weeks after Session 12 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATEs
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Syllabus Critique
+{{< tdclose >}}
+{{< tdopen >}}
+Due 5 days after Session 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Formal Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Due Session 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reader's Report
+{{< tdclose >}}
+{{< tdopen >}}
+Due Session 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Proposed Outline / Bibliography
+{{< tdclose >}}
+{{< tdopen >}}
+Due Session 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exhibition Review
+{{< tdclose >}}
+{{< tdopen >}}
+Due Session 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Media Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Due Session 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Abstract of Research Paper
+{{< tdclose >}}
+{{< tdopen >}}
+Due Session 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Research Paper
+{{< tdclose >}}
+{{< tdopen >}}
+Due 2 weeks after Session 12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Syllabus Critique
 -----------------
