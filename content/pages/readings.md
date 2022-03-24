@@ -213,7 +213,7 @@ Duncan, Carol, and Alan Wallach. "[The Universal Survey Museum](http://dx.doi.or
 
 Haraway, Donna. "[Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908–1936](http://www.jstor.org/stable/466593 )." _Social Text_, no. 11 (1984–1985): 20–64.
 
-Bennett, Tony. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"The Exhibitionary Complex." (PDF – 1.9MB)](http://banmarchive.org.uk/collections/newformations/04_73.pdf) _New Formations_ 4 (1988): 73–102.
+Bennett, Tony. ["The Exhibitionary Complex." (PDF – 1.9MB)](http://banmarchive.org.uk/collections/newformations/04_73.pdf) _New Formations_ 4 (1988): 73–102.
 
 Guha-Thakurta, Tapati. "The Demands of Independence: From a National Exhibition to a National Museum." In _Monuments, Objects, Histories: Institutions of Art in Colonial and Postcolonial India_. Columbia University Press, 2004, pp. 175–204. ISBN: 9780231129985. \[Preview with [Google Books](http://books.google.com/books?id=XFzjSSnT5NUC&pg=PAfrontcover)\]
 
@@ -352,13 +352,13 @@ Lyotard, Jean-François. _The Postmodern Condition: A Report on Knowledge (Frenc
 
 Coombes, Annie. "Inventing the Post-Colonial: Hybridity and Constituency in Contemporary Curating." In _The Art of Art History: A Critical Anthology_. Oxford University Press, 1998, pp. 39–52. ISBN: 978-0192842428.
 
-Jarzombek, Mark. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Critical or Post-critical?" (PDF)](http://web.mit.edu/mmj4/www/downloads/atr7_1.pdf) _Architectural Theory Review_ 7, no. 1 (2002): 149–51.
+Jarzombek, Mark. ["Critical or Post-critical?" (PDF)](http://web.mit.edu/mmj4/www/downloads/atr7_1.pdf) _Architectural Theory Review_ 7, no. 1 (2002): 149–51.
 
 Cowherd, Robert. "[Notes on Post-criticality: Towards an Architecture of Reflexive Modernisation](http://dx.doi.org/10.7480/footprint.3.1.700)." _Footprint (Delft Architecture Theory Journal_) 4 (2009): 65–76.
 
 Bosker, Bianca. "Manifestations of Westernization." In _Original Copies: Architectural Mimicry in Contemporary China_. University of Hawaii Press, 2013, pp. 37–66. ISBN: 9780824836061.
 
-Haraway, Donna. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Anthropocene, Capitalocene, Plantationacene, Chthulucene: Making Kin." (PDF)](http://environmentalhumanities.org/arch/vol6/6.7.pdf) _Environmental Humanities_ 6 (2015): 159–65.
+Haraway, Donna. ["Anthropocene, Capitalocene, Plantationacene, Chthulucene: Making Kin." (PDF)](http://environmentalhumanities.org/arch/vol6/6.7.pdf) _Environmental Humanities_ 6 (2015): 159–65.
 
 
 {{< tdclose >}}
